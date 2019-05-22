@@ -12,7 +12,7 @@ import java.util.Scanner;
  * and then asks the user to enter a card(value and suit) and searches the array of cards
  * for the match to the user's card.
  * To be used as starting code for ICE 1
- * @author Sivagami
+ * @author Shuvneet
  */
 public class Card {
 
